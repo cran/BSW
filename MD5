@@ -1,4 +1,4 @@
-ccc0c49a64f05cb0ae578134c487e528 *DESCRIPTION
+ee655c2ed60dfa65f0275cf0c675303b *DESCRIPTION
 0b32c5868125062547069d1cd0348540 *NAMESPACE
 4a2d7a8a9b7cce98466b5e6628c19b08 *R/bsw-class.R
 7f65f7c29e8b3c1b11d2a0388e78df4a *R/bsw.R
@@ -8,6 +8,10 @@ ccc0c49a64f05cb0ae578134c487e528 *DESCRIPTION
 9518a1a29a341349e77216bf38529f5a *R/gradF.R
 2b99d1f8bf3c284b1e02f0a6d425bc0a *R/hess.R
 ea50c35f54516fd622dae4cd3bc31739 *R/summary-method.R
+2f57f0a92027396297ccba1dd66504e8 *build/vignette.rds
+3082879e35be415e83890cf115ef579c *inst/doc/Validation.R
+cc1d69f2d212b7f5b2056d1a1118292d *inst/doc/Validation.Rmd
+651124847f9048be41fe3398dc94d2e4 *inst/doc/Validation.html
 b694ee43a00acba842b2f080d93753b1 *man/bsw-class.Rd
 5c4d883bce9e1b3869a2491afc417a78 *man/bsw.Rd
 c08e702a09905be63cb8bb1de9ca46f5 *man/coef-bsw-method.Rd
@@ -16,3 +20,6 @@ c08e702a09905be63cb8bb1de9ca46f5 *man/coef-bsw-method.Rd
 c147b870780ebbf7ce2d7b2ec11b452d *man/gradF.Rd
 3531c47c57ee6b3c9ba96c3f5faa2312 *man/hess.Rd
 2bf5f9e03828867708e5d62aa01861a0 *man/summary-bsw-method.Rd
+2261e2556dfe75f6f9bea6495cf39448 *tests/testthat.R
+7a7fe33fa044e9e910bfac6e63d4b6a6 *tests/testthat/test-parameters.R
+cc1d69f2d212b7f5b2056d1a1118292d *vignettes/Validation.Rmd
